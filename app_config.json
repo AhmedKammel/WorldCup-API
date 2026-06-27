@@ -1,7 +1,7 @@
 {
   "app_settings": {
     "maintenance": {
-      "is_active": fails,
+      "is_active": false,
       "title": "تحديث السيرفرات ⚙️",
       "message": "نقوم حالياً بترقية النظام لتقديم خدمة أسرع. سنعود للعمل خلال دقائق، شكراً لتفهمكم!",
       "allow_bypass": false
