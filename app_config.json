@@ -1,0 +1,27 @@
+{
+  "app_settings": {
+    "maintenance": {
+      "is_active": false,
+      "title": "تحديث السيرفرات ⚙️",
+      "message": "نقوم حالياً بترقية النظام لتقديم خدمة أسرع. سنعود للعمل خلال دقائق، شكراً لتفهمكم!",
+      "allow_bypass": false
+    },
+    "update": {
+      "latest_version_code": 2,
+      "is_force_update": false,
+      "update_url": "https://play.google.com/store/apps/developer?id=Ahmed+Kamel+dev",
+      "update_title": "تحديث جديد متاح 🚀",
+      "update_message": "قمنا بإضافة ميزات جديدة وإصلاح بعض الأخطاء. يرجى التحديث الآن."
+    },
+    "global_alert": {
+      "show_alert": false,
+      "title": "إعلان هام 📢",
+      "message": "تم إضافة جدول المباريات النهائية، تصفحه الآن!",
+      "is_cancellable": true
+    },
+    "feature_flags": {
+      "enable_notifications": true,
+      "show_live_chat": false
+    }
+  }
+}
