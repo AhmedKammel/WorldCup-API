@@ -1,6 +1,6 @@
 {
   "ads_settings": {
-    "show_ads": true,
+    "show_ads": false,
     "interstitial_click_interval": 3,
     "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
     "ad_units": {
