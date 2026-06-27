@@ -1,0 +1,92 @@
+[
+    {
+        "match_id": "760480",
+        "date": "2026-06-27T21:00Z",
+        "status": "Scheduled",
+        "home_team": {
+            "name": "Croatia",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png"
+        },
+        "away_team": {
+            "name": "Ghana",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png"
+        }
+    },
+    {
+        "match_id": "760485",
+        "date": "2026-06-27T21:00Z",
+        "status": "Scheduled",
+        "home_team": {
+            "name": "Panama",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png"
+        },
+        "away_team": {
+            "name": "England",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png"
+        }
+    },
+    {
+        "match_id": "760481",
+        "date": "2026-06-27T23:30Z",
+        "status": "Scheduled",
+        "home_team": {
+            "name": "Colombia",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png"
+        },
+        "away_team": {
+            "name": "Portugal",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png"
+        }
+    },
+    {
+        "match_id": "760482",
+        "date": "2026-06-27T23:30Z",
+        "status": "Scheduled",
+        "home_team": {
+            "name": "Congo DR",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rdc.png"
+        },
+        "away_team": {
+            "name": "Uzbekistan",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png"
+        }
+    },
+    {
+        "match_id": "760484",
+        "date": "2026-06-28T02:00Z",
+        "status": "Scheduled",
+        "home_team": {
+            "name": "Algeria",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png"
+        },
+        "away_team": {
+            "name": "Austria",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png"
+        }
+    },
+    {
+        "match_id": "760483",
+        "date": "2026-06-28T02:00Z",
+        "status": "Scheduled",
+        "home_team": {
+            "name": "Jordan",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jor.png"
+        },
+        "away_team": {
+            "name": "Argentina",
+            "score": "0",
+            "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png"
+        }
+    }
+]
