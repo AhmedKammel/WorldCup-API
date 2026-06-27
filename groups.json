@@ -1,0 +1,446 @@
+[
+    {
+        "group_name": "Group A",
+        "teams": [
+            {
+                "name": "Mexico",
+                "points": 9.0,
+                "played": 3.0,
+                "won": 3.0,
+                "draw": 0.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Czechia",
+                "points": 1.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 1.0,
+                "lost": 2.0
+            },
+            {
+                "name": "South Korea",
+                "points": 3.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 0.0,
+                "lost": 2.0
+            },
+            {
+                "name": "South Africa",
+                "points": 4.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 1.0,
+                "lost": 1.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group B",
+        "teams": [
+            {
+                "name": "Canada",
+                "points": 4.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 1.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Bosnia-Herzegovina",
+                "points": 4.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 1.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Switzerland",
+                "points": 7.0,
+                "played": 3.0,
+                "won": 2.0,
+                "draw": 1.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Qatar",
+                "points": 1.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 1.0,
+                "lost": 2.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group C",
+        "teams": [
+            {
+                "name": "Brazil",
+                "points": 7.0,
+                "played": 3.0,
+                "won": 2.0,
+                "draw": 1.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Scotland",
+                "points": 3.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 0.0,
+                "lost": 2.0
+            },
+            {
+                "name": "Haiti",
+                "points": 0.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 0.0,
+                "lost": 3.0
+            },
+            {
+                "name": "Morocco",
+                "points": 7.0,
+                "played": 3.0,
+                "won": 2.0,
+                "draw": 1.0,
+                "lost": 0.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group D",
+        "teams": [
+            {
+                "name": "Paraguay",
+                "points": 4.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 1.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Türkiye",
+                "points": 3.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 0.0,
+                "lost": 2.0
+            },
+            {
+                "name": "Australia",
+                "points": 4.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 1.0,
+                "lost": 1.0
+            },
+            {
+                "name": "United States",
+                "points": 6.0,
+                "played": 3.0,
+                "won": 2.0,
+                "draw": 0.0,
+                "lost": 1.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group E",
+        "teams": [
+            {
+                "name": "Ecuador",
+                "points": 4.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 1.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Germany",
+                "points": 6.0,
+                "played": 3.0,
+                "won": 2.0,
+                "draw": 0.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Ivory Coast",
+                "points": 6.0,
+                "played": 3.0,
+                "won": 2.0,
+                "draw": 0.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Curaçao",
+                "points": 1.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 1.0,
+                "lost": 2.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group F",
+        "teams": [
+            {
+                "name": "Netherlands",
+                "points": 7.0,
+                "played": 3.0,
+                "won": 2.0,
+                "draw": 1.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Sweden",
+                "points": 4.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 1.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Japan",
+                "points": 5.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 2.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Tunisia",
+                "points": 0.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 0.0,
+                "lost": 3.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group G",
+        "teams": [
+            {
+                "name": "Belgium",
+                "points": 5.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 2.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Iran",
+                "points": 3.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 3.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Egypt",
+                "points": 5.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 2.0,
+                "lost": 0.0
+            },
+            {
+                "name": "New Zealand",
+                "points": 1.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 1.0,
+                "lost": 2.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group H",
+        "teams": [
+            {
+                "name": "Spain",
+                "points": 7.0,
+                "played": 3.0,
+                "won": 2.0,
+                "draw": 1.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Uruguay",
+                "points": 2.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 2.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Saudi Arabia",
+                "points": 2.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 2.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Cape Verde",
+                "points": 3.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 3.0,
+                "lost": 0.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group I",
+        "teams": [
+            {
+                "name": "Norway",
+                "points": 6.0,
+                "played": 3.0,
+                "won": 2.0,
+                "draw": 0.0,
+                "lost": 1.0
+            },
+            {
+                "name": "France",
+                "points": 9.0,
+                "played": 3.0,
+                "won": 3.0,
+                "draw": 0.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Senegal",
+                "points": 3.0,
+                "played": 3.0,
+                "won": 1.0,
+                "draw": 0.0,
+                "lost": 2.0
+            },
+            {
+                "name": "Iraq",
+                "points": 0.0,
+                "played": 3.0,
+                "won": 0.0,
+                "draw": 0.0,
+                "lost": 3.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group J",
+        "teams": [
+            {
+                "name": "Argentina",
+                "points": 6.0,
+                "played": 2.0,
+                "won": 2.0,
+                "draw": 0.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Austria",
+                "points": 3.0,
+                "played": 2.0,
+                "won": 1.0,
+                "draw": 0.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Algeria",
+                "points": 3.0,
+                "played": 2.0,
+                "won": 1.0,
+                "draw": 0.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Jordan",
+                "points": 0.0,
+                "played": 2.0,
+                "won": 0.0,
+                "draw": 0.0,
+                "lost": 2.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group K",
+        "teams": [
+            {
+                "name": "Colombia",
+                "points": 6.0,
+                "played": 2.0,
+                "won": 2.0,
+                "draw": 0.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Portugal",
+                "points": 4.0,
+                "played": 2.0,
+                "won": 1.0,
+                "draw": 1.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Uzbekistan",
+                "points": 0.0,
+                "played": 2.0,
+                "won": 0.0,
+                "draw": 0.0,
+                "lost": 2.0
+            },
+            {
+                "name": "Congo DR",
+                "points": 1.0,
+                "played": 2.0,
+                "won": 0.0,
+                "draw": 1.0,
+                "lost": 1.0
+            }
+        ]
+    },
+    {
+        "group_name": "Group L",
+        "teams": [
+            {
+                "name": "England",
+                "points": 4.0,
+                "played": 2.0,
+                "won": 1.0,
+                "draw": 1.0,
+                "lost": 0.0
+            },
+            {
+                "name": "Croatia",
+                "points": 3.0,
+                "played": 2.0,
+                "won": 1.0,
+                "draw": 0.0,
+                "lost": 1.0
+            },
+            {
+                "name": "Panama",
+                "points": 0.0,
+                "played": 2.0,
+                "won": 0.0,
+                "draw": 0.0,
+                "lost": 2.0
+            },
+            {
+                "name": "Ghana",
+                "points": 4.0,
+                "played": 2.0,
+                "won": 1.0,
+                "draw": 1.0,
+                "lost": 0.0
+            }
+        ]
+    }
+]
